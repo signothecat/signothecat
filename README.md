@@ -55,8 +55,6 @@ I'm an indie app developer from Japan🇯🇵
   </tr>
 </table>
 
-catppuccin_latte
-
 ## Other Stats
 ![](https://komarev.com/ghpvc/?username=signothecat&abbreviated=true)
 
