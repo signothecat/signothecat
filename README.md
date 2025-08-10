@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   <img height=200 align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8 />
+  <img height=200 align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" />
 </a>
