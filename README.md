@@ -1,5 +1,6 @@
 ## About me 🍉
 
+![](https://komarev.com/ghpvc/?username=signothecat&abbreviated=true)
 I'm an indie app developer from Japan🇯🇵
 
 - 📫 How to reach me: DM me on ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
@@ -31,8 +32,6 @@ I'm an indie app developer from Japan🇯🇵
     </a>
   </div>
 </div>
-
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 
 <!--
 - 🔭 I’m currently working on ...
