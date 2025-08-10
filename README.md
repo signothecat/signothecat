@@ -20,12 +20,12 @@ I'm an indie app developer from Japan🇯🇵
 
 ## GitHub Stats ⌗
 <div style="display: flex;">
-  <div style="width: 50%;">
+  <div style="width: 50%; height: 100%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" />
     </a>
   </div>
-  <div style="width: 40%;">
+  <div style="width: 45%; height: 100%;">
     <a href="https://github.com/anuraghazra/convoychat">
       <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" />
     </a>
