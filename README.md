@@ -1,10 +1,10 @@
-## About me
+## About me 🍉
 
 I'm an indie app developer from Japan🇯🇵
 
 - 📫 How to reach me: Kindly please DM me on X!
 
-## Tech Stack
+## Tech Stack 💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -16,7 +16,7 @@ I'm an indie app developer from Japan🇯🇵
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-## GitHub Stats
+## GitHub Stats ⌗
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" />
 </a>
