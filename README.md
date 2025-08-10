@@ -22,8 +22,8 @@ I'm an indie app developer from Japan🇯🇵
 ## GitHub Stats ⌗
  <table style="border: 0px">
     <tr>
-      <td style="vertical-align: top;"><img src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" /></td>
-      <td style="vertical-align: top;"> <img src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" /></td>
+      <td style="vertical-align: top;"><img src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=shades-of-purple" /></td>
+      <td style="vertical-align: top;"> <img src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=shades-of-purple&langs_count=8" /></td>
     </tr>
  </table>
 
