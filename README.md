@@ -32,6 +32,8 @@ I'm an indie app developer from Japan🇯🇵
   </div>
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
