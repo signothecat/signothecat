@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### not セルフホスティングのstats card
-![signothecat's GitHub stats](https://github-readme-stats.vercel.app/api?username=signothecat&count_private=true&theme=node)
-
 ### セルフホスティングのstats card
-![signothecat's GitHub stats](https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&count_private=true&theme=node)
-
-### not セルフホスティングのtop langs
-![](https://github-readme-stats.vercel.app/api/top-langs?username=signothecat&theme=node)
+![signothecat's GitHub stats](https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node)
 
 ### セルフホスティングのtop langs
-![](https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&theme=node)
+![](https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node)
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
