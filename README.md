@@ -26,6 +26,7 @@ I'm an indie app developer from Japan🇯🇵
   <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" />
 </a>
 
+## Other Stats
 ![](https://komarev.com/ghpvc/?username=signothecat&abbreviated=true)
 
 <!--
