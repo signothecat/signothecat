@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 ### セルフホスティングのstats card
 ![signothecat's GitHub stats](https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&count_private=true&theme=node)
 
-### その他
+### not セルフホスティングのtop langs
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=signothecat&theme=node)
+
+### セルフホスティングのtop langs
+![](https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&theme=node)
+
 ![](https://skillicons.dev/icons?i=html,css,js,typescript)
