@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=signothecat&count_private=true)
+### not セルフホスティングのstats card
+![signothecat's GitHub stats](https://github-readme-stats.vercel.app/api?username=signothecat&count_private=true&theme=node)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=signothecat)
+### セルフホスティングのstats card
+![signothecat's GitHub stats](https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&count_private=true&theme=node)
 
-![github-readme-stats](github-readme-stats-clone-signothec.vercel.app/api/username=signothecat)
-
+### その他
+![](https://github-readme-stats.vercel.app/api/top-langs?username=signothecat&theme=node)
 ![](https://skillicons.dev/icons?i=html,css,js,typescript)
