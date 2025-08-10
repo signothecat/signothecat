@@ -29,11 +29,11 @@ I'm an indie app developer from Japan🇯🇵
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=catppuccin_latte"
+          srcset="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=buefy"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-          src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true"
+          src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=buefy"
         />
       </picture>
     </td>
@@ -44,11 +44,11 @@ I'm an indie app developer from Japan🇯🇵
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&theme=catppuccin_latte"
+          srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&theme=buefy"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-          src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&theme=catppuccin_latte"
+          src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&theme=buefy"
         />
       </picture>
     </td>
