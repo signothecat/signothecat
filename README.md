@@ -15,16 +15,17 @@ I'm an indie app developer from Japan🇯🇵
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<br>
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 
 ## GitHub Stats ⌗
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" />
-</a>
+ <table style="border: 0px">
+    <tr>
+      <td style="vertical-align: top;"><img src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" /></td>
+      <td style="vertical-align: top;"> <img src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" /></td>
+    </tr>
+ </table>
 
 ## Other Stats
 ![](https://komarev.com/ghpvc/?username=signothecat&abbreviated=true)
