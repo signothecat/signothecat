@@ -32,7 +32,7 @@ I'm an indie app developer from Japan🇯🇵
   </div>
 </div>
 
-<br>
+## Other Stats
 ![](https://komarev.com/ghpvc/?username=signothecat&abbreviated=true)
 
 <!--
