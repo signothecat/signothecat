@@ -20,12 +20,42 @@ I'm an indie app developer from Japan🇯🇵
 ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 
 ## GitHub Stats ⌗
- <table style="border: 0px">
-    <tr>
-      <td style="vertical-align: top;"><img src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=one_dark_pro" /></td>
-      <td style="vertical-align: top;"> <img src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=one_dark_pro&langs_count=8" /></td>
-    </tr>
- </table>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=one_dark_pro"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=catppuccin_latte"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+          src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true"
+        />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&theme=one_dark_pro"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&theme=catppuccin_latte"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+          src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&theme=catppuccin_latte"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+catppuccin_latte
 
 ## Other Stats
 ![](https://komarev.com/ghpvc/?username=signothecat&abbreviated=true)
