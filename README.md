@@ -22,7 +22,7 @@ I'm an indie app developer from Japan🇯🇵
 <div style="display: flex;">
   <div style="width: 50%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img lign="left" src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" />
+      <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" />
     </a>
   </div>
   <div style="width: 40%;">
