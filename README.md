@@ -19,12 +19,18 @@ I'm an indie app developer from Japan🇯🇵
 ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 
 ## GitHub Stats ⌗
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img lign="left" src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" />
-</a>
+<div style="display: flex;">
+  <div style="width: 55%; height: 100%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img lign="left" src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=node" />
+    </a>
+  </div>
+  <div style="width: 45%; height: 100%;">
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="left" src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&theme=node&langs_count=8" />
+    </a>
+  </div>
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
