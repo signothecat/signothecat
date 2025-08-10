@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=signothecat)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=signothecat&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=signothecat)
 
