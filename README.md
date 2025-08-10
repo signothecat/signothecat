@@ -2,7 +2,7 @@
 
 I'm an indie app developer from Japan🇯🇵
 
-- 📫 How to reach me: Kindly please DM me on X!
+- 📫 How to reach me: Kindly please DM me on ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 ## Tech Stack 💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
