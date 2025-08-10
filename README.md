@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=signothecat)
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript)
