@@ -24,7 +24,7 @@
 </p>
 
 <!--------- Where to find me ---------->
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="24"> Where to find me</h2>
+<h2><img src="https://cdn3.emoji.gg/emojis/4506-minecraft-diamond.gif" width="24"> Where to find me</h2>
 <p>
     <a href="https://github.com/signothecat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://qiita.com/signo"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"></a>
@@ -69,7 +69,7 @@
 </table>
 
 <!--------- My downtime ---------->
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514724/7294/cat_confused.png?1643514724" width="24"/> My downtime</h2>
+<h2><img src="https://cdn3.emoji.gg/emojis/96890-cateat.gif" width="24"/> My downtime</h2>
 <div>
   <p style="margin: 0;">
     <a href="" target="_blank"><img alt="Detective Conan" src="https://img.shields.io/badge/Anime-853417?style=for-the-badge&logoColor=white" /></a>
