@@ -23,6 +23,14 @@
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 </p>
 
+<!--------- Where to find me ---------->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="24"> Where to find me</h2>
+<p>
+    <a href="https://github.com/signothecat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://qiita.com/signo"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"></a>
+    <a href="https://x.com/signothecat" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+</p>
+
 <!--------- GitHub Activity ---------->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h2>
 <table>
@@ -59,14 +67,6 @@
     </td>
   </tr>
 </table>
-
-<!--------- Where to find me ---------->
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="24"> Where to find me</h2>
-<p>
-    <a href="https://github.com/signothecat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://qiita.com/signo"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"></a>
-    <a href="https://x.com/signothecat" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-</p>
 
 <!--------- My downtime ---------->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514724/7294/cat_confused.png?1643514724" width="24"/> My downtime</h2>
