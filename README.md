@@ -80,7 +80,7 @@
     <img src="https://cdn3.emoji.gg/emojis/41317-gin.png" width="28" alt="Gin">
     <img src="https://cdn3.emoji.gg/emojis/84447-vermouth-peng.png" width="28" alt="Vermouth">
   <br>
-    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Minecraft-477A1E?style=for-the-badge&logoColor=white" /></a>
+    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>
     <img src="https://cdn3.emoji.gg/emojis/6626-mc-diamond.png" width="28" alt="Diamond">
     <img src="https://cdn3.emoji.gg/emojis/9286-writtenbook.gif" width="28" alt="writtenbook">
     <img src="https://cdn3.emoji.gg/emojis/1852-notchapple.gif" width="28" alt="notchapple">
