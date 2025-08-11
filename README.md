@@ -85,7 +85,7 @@
 </table>
 
 <!--------- My downtime ---------->
-<h2><img src="https://cdn3.emoji.gg/emojis/96890-cateat.gif" width="24"/> My downtime</h2>
+<h2><img src="https://cdn3.emoji.gg/emojis/96890-cateat.gif" width="24"/> What I enjoy in my downtime</h2>
 <div>
   <p style="margin: 0;">
     <a href="" target="_blank"><img alt="Detective Conan" src="https://img.shields.io/badge/Anime-853417?style=for-the-badge&logoColor=white" /></a>
