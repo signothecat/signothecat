@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514637/6412/meow_popcorn.gif?1643514637" width="30"/> Hello! Nice to meet you. </h1>
-<a href="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true">
-  <img src="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true" alt="GitHub profile views">
-</a>
+<a href="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true"><img src="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true" alt="GitHub profile views"></a>
+<a href=""><img height="20" src="https://qiita-badge.apiapi.app/s/signo/posts.svg" /></a>
+<a href=""><img height="20" src="https://qiita-badge.apiapi.app/s/signo/contributions.svg" /></a>
 <p>I'm an indie app developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
 
 <!--------- Tech Stack ---------->
