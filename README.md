@@ -33,6 +33,19 @@
 
 <!--------- GitHub Activity ---------->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h2>
+<p>
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&&margin-w=5&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=5&theme=flat"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github.com/ryo-ma/github-profile-trophy" />
+</picture>
+</p>
 <table>
   <tr>
     <td>
@@ -90,14 +103,6 @@
     <img src="https://cdn3.emoji.gg/emojis/65598-chicken-jockey.png" width="24" alt="chicken-jockey">
   </p>
 </div>
-
-<h2>Other info</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=signothecat" />
-  </a>
-</p>
-
 
 <!--
 - 🔭 I’m currently working on ...
