@@ -36,16 +36,17 @@
 <p>
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&&margin-w=5&theme=onedark"
+    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&&margin-w=15&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=5&theme=flat"
+    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=15&theme=flat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github.com/ryo-ma/github-profile-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=10&theme=flat" alt="Trophy" style="">
 </picture>
 </p>
+
 <table>
   <tr>
     <td>
