@@ -87,18 +87,18 @@
 <div>
   <p style="margin: 0;">
     <a href="" target="_blank"><img alt="Detective Conan" src="https://img.shields.io/badge/Anime-853417?style=for-the-badge&logoColor=white" /></a>
-    <img src="https://cdn3.emoji.gg/emojis/35228-shinichi-smile.png" width="28" alt="Conan">
-    <img src="https://cdn3.emoji.gg/emojis/11961-ran-erfreut.png" width="28" alt="Ran Neechan">
-    <img src="https://cdn3.emoji.gg/emojis/26510-ai-schadenfreude.png" width="28" alt="Ai Haibara">
-    <img src="https://cdn3.emoji.gg/emojis/53295-kid-eeh.png" width="28" alt="Kaitou Kid">
-    <img src="https://cdn3.emoji.gg/emojis/41317-gin.png" width="28" alt="Gin">
+    <img src="https://cdn3.emoji.gg/emojis/35228-shinichi-smile.png" width="28" alt="Conan">&nbsp;
+    <img src="https://cdn3.emoji.gg/emojis/11961-ran-erfreut.png" width="28" alt="Ran Neechan">&nbsp;
+    <img src="https://cdn3.emoji.gg/emojis/26510-ai-schadenfreude.png" width="28" alt="Ai Haibara">&nbsp;
+    <img src="https://cdn3.emoji.gg/emojis/53295-kid-eeh.png" width="28" alt="Kaitou Kid">&nbsp;
+    <img src="https://cdn3.emoji.gg/emojis/41317-gin.png" width="28" alt="Gin">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/84447-vermouth-peng.png" width="28" alt="Vermouth">
   <br>
     <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>
     <img src="https://cdn3.emoji.gg/emojis/4874_CreeperAwwMan.png" width="34"  alt="creeper">
-    <img src="https://cdn3.emoji.gg/emojis/23514-minecraft-sheep.png" width="24"  alt="minecraft-sheep">
+    <img src="https://cdn3.emoji.gg/emojis/23514-minecraft-sheep.png" width="24"  alt="minecraft-sheep">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/6626-mc-diamond.png" width="28" alt="Diamond">
-    <img src="https://cdn3.emoji.gg/emojis/9286-writtenbook.gif" width="28" alt="writtenbook">
+    <img src="https://cdn3.emoji.gg/emojis/9286-writtenbook.gif" width="28" alt="writtenbook">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/1852-notchapple.gif" width="28" alt="notchapple">
     <img src="https://cdn3.emoji.gg/emojis/5697-elytra.png" width="28" alt="elytra">
     <img src="https://cdn3.emoji.gg/emojis/65598-chicken-jockey.png" width="24" alt="chicken-jockey">
