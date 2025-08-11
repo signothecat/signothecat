@@ -2,12 +2,10 @@
 <a href="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true">
   <img src="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true" alt="GitHub profile views">
 </a>
-
-<br>
-
 <p>I'm an indie app developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="24"/> What I’ve Used</h3>
+<!--------- Tech Stack ---------->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="24"/> What I’ve Used</h2>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -25,7 +23,8 @@
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 </p>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h3>
+<!--------- GitHub Activity ---------->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h2>
 <table>
   <tr>
     <td>
@@ -61,12 +60,35 @@
   </tr>
 </table>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514724/7294/cat_confused.png?1643514724" width="24"/> Where to find me</h3>
+<!--------- Where to find me ---------->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514724/7294/cat_confused.png?1643514724" width="24"/> Where to find me</h2>
 <p>
     <a href="https://github.com/signothecat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://qiita.com/signo"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"></a>
     <a href="https://x.com/signothecat" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
+
+<!--------- My downtime ---------->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="24"> My downtime</h2>
+<div>
+  <p style="margin: 0;">
+    <a href="" target="_blank"><img alt="Detective Conan" src="https://img.shields.io/badge/Anime-853417?style=for-the-badge&logoColor=white" /></a>
+    <img src="https://cdn3.emoji.gg/emojis/35228-shinichi-smile.png" width="28" alt="Conan">
+    <img src="https://cdn3.emoji.gg/emojis/11961-ran-erfreut.png" width="28" alt="Ran Neechan">
+    <img src="https://cdn3.emoji.gg/emojis/26510-ai-schadenfreude.png" width="28" alt="Ai Haibara">
+    <img src="https://cdn3.emoji.gg/emojis/53295-kid-eeh.png" width="28" alt="Kaitou Kid">
+    <img src="https://cdn3.emoji.gg/emojis/41317-gin.png" width="28" alt="Gin">
+    <img src="https://cdn3.emoji.gg/emojis/84447-vermouth-peng.png" width="28" alt="Vermouth">
+  <br>
+    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Minecraft-477A1E?style=for-the-badge&logoColor=white" /></a>
+    <img src="https://cdn3.emoji.gg/emojis/6626-mc-diamond.png" width="28" alt="Diamond">
+    <img src="https://cdn3.emoji.gg/emojis/9286-writtenbook.gif" width="28" alt="writtenbook">
+    <img src="https://cdn3.emoji.gg/emojis/1852-notchapple.gif" width="28" alt="notchapple">
+    <img src="https://cdn3.emoji.gg/emojis/5697-elytra.png" width="28" alt="elytra">
+    <img src="https://cdn3.emoji.gg/emojis/23514-minecraft-sheep.png" width="24"  alt="minecraft-sheep">
+    <img src="https://cdn3.emoji.gg/emojis/65598-chicken-jockey.png" width="28" alt="chicken-jockey">
+  </p>
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
