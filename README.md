@@ -43,7 +43,7 @@
     srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=15&theme=flat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=10&theme=flat" alt="Trophy" style="">
+  <img src="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=10&theme=flat" alt="Trophy" style="height: 100px;">
 </picture>
 </p>
 
