@@ -7,7 +7,7 @@
 
 <p>I'm an indie app developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="24"/> What I’ve Used</h2>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="24"/> What I’ve Used</h3>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 </p>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h2>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h3>
 <table>
   <tr>
     <td>
@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514724/7294/cat_confused.png?1643514724" width="24"/> Where to find me</h2>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514724/7294/cat_confused.png?1643514724" width="24"/> Where to find me</h3>
 <p>
     <a href="https://github.com/signothecat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://qiita.com/signo"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"></a>
