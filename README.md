@@ -26,7 +26,7 @@
 </p>
 
 <!--------- Where to find me ---------->
-<h2><img src="https://cdn3.emoji.gg/emojis/4506-minecraft-diamond.gif" width="24"> Where to find me</h2>
+<h2><img src="https://cdn3.emoji.gg/emojis/433076-minecraft-diamond-sparkle.gif" width="24"> Where to find me</h2>
 <p>
     <a href="https://github.com/signothecat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://qiita.com/signo"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"></a>
