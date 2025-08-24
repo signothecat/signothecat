@@ -38,14 +38,14 @@
 <p>
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&&margin-w=15&theme=onedark"
+    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=15&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=15&theme=flat"
+    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=15&theme=flat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=signothecat&rank=-?&margin-w=10&theme=flat" alt="Trophy" style="height: 100px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=10&theme=flat" alt="Trophy">
 </picture>
 </p>
 
