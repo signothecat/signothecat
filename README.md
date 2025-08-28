@@ -95,8 +95,6 @@
     <img src="https://cdn3.emoji.gg/emojis/41317-agasa-daumen-hoch.png" width="28" alt="Agasa">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/50960-sonoko-daumen-hoch.png" width="28" alt="Sonoko Neechan">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/53295-kid-eeh.png" width="28" alt="Kaitou Kid">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/41317-gin.png" width="28" alt="Gin">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/84447-vermouth-peng.png" width="28" alt="Vermouth">
   <br>
     <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>
     <img src="https://cdn3.emoji.gg/emojis/4874_CreeperAwwMan.png" width="34"  alt="creeper">
