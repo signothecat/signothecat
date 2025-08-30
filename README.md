@@ -35,19 +35,6 @@
 
 <!--------- GitHub Activity ---------->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h2>
-<p>
-<picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=15&theme=onedark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=15&theme=flat"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=10&theme=flat" alt="Trophy">
-</picture>
-</p>
 
 <table>
   <tr>
