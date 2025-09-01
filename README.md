@@ -75,7 +75,7 @@
 <h2><img src="https://cdn3.emoji.gg/emojis/96890-cateat.gif" width="24"/> What I enjoy in my downtime</h2>
 <div>
   <p style="margin: 0;">
-    <a href="" target="_blank"><img alt="Detective Conan" src="https://img.shields.io/badge/Anime-853417?style=for-the-badge&logoColor=white" /></a>
+    <a href="" target="_blank"><img alt="Detective Conan" src="https://img.shields.io/badge/Anime-853417?style=for-the-badge&logoColor=white" /></a>&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/94083-conan-blush.png" width="26" alt="Conan">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/14915-ai-whatever.png" width="28" alt="Ai Haibara">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/23967-ran-blushed-nachdenkend.png" width="28" alt="Ran Neechan">&nbsp;
@@ -83,7 +83,7 @@
     <img src="https://cdn3.emoji.gg/emojis/50960-sonoko-daumen-hoch.png" width="28" alt="Sonoko Neechan">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/53295-kid-eeh.png" width="28" alt="Kaitou Kid">&nbsp;
   <br>
-    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>&nbsp;
+    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>
     <img src="https://cdn3.emoji.gg/emojis/4874_CreeperAwwMan.png" width="30"  alt="creeper">
     <img src="https://cdn3.emoji.gg/emojis/23514-minecraft-sheep.png" width="24"  alt="minecraft-sheep">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/6626-mc-diamond.png" width="28" alt="Diamond">&nbsp;
