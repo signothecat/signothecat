@@ -83,7 +83,7 @@
     <img src="https://cdn3.emoji.gg/emojis/50960-sonoko-daumen-hoch.png" width="28" alt="Sonoko Neechan">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/53295-kid-eeh.png" width="28" alt="Kaitou Kid">&nbsp;
   <br>
-    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>
+    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/4874_CreeperAwwMan.png" width="30"  alt="creeper">
     <img src="https://cdn3.emoji.gg/emojis/23514-minecraft-sheep.png" width="24"  alt="minecraft-sheep">&nbsp;
     <img src="https://cdn3.emoji.gg/emojis/6626-mc-diamond.png" width="28" alt="Diamond">&nbsp;
