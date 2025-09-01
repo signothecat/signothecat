@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514637/6412/meow_popcorn.gif?1643514637" width="30"/> Hello! Nice to meet you. </h1>
+<h1>Hello! Nice to meet you. </h1>
 <p>
     <a href="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true"><img src="https://komarev.com/ghpvc/?username=signothecat&abbreviated=true" alt="GitHub profile views"></a>
     <a href="https://qiita.com/signo" target="_blank"><img height="20" src="https://qiita-badge.apiapi.app/s/signo/posts.svg" /></a>
@@ -73,24 +73,11 @@
 <!--------- In my downtime ---------->
 <h2><img src="https://cdn3.emoji.gg/emojis/96890-cateat.gif" width="24"/> In my downtime</h2>
 <div>
-  <p style="margin: 0;">
-    <a href="" target="_blank"><img alt="Detective Conan" src="https://img.shields.io/badge/Anime-853417?style=for-the-badge&logoColor=white" /></a>&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/94083-conan-blush.png" width="26" alt="Conan">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/14915-ai-whatever.png" width="28" alt="Ai Haibara">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/23967-ran-blushed-nachdenkend.png" width="28" alt="Ran Neechan">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/41317-agasa-daumen-hoch.png" width="28" alt="Agasa">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/50960-sonoko-daumen-hoch.png" width="28" alt="Sonoko Neechan">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/53295-kid-eeh.png" width="28" alt="Kaitou Kid">&nbsp;
-  <br>
-    <a href="" target="_blank"><img alt="Game" src="https://img.shields.io/badge/Game-477A1E?style=for-the-badge&logoColor=white" /></a>
-    <img src="https://cdn3.emoji.gg/emojis/4874_CreeperAwwMan.png" width="30"  alt="creeper">
-    <img src="https://cdn3.emoji.gg/emojis/23514-minecraft-sheep.png" width="24"  alt="minecraft-sheep">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/6626-mc-diamond.png" width="28" alt="Diamond">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/9286-writtenbook.gif" width="28" alt="writtenbook">&nbsp;
-    <img src="https://cdn3.emoji.gg/emojis/1852-notchapple.gif" width="28" alt="notchapple">
-    <img src="https://cdn3.emoji.gg/emojis/5697-elytra.png" width="28" alt="elytra">
-    <img src="https://cdn3.emoji.gg/emojis/65598-chicken-jockey.png" width="24" alt="chicken-jockey">
-  </p>
+  <ul>
+    <li>Enjoy watching anime (Detective Conan, Dragon Ball, etc.) <img src="https://cdn3.emoji.gg/emojis/94083-conan-blush.png" width="26" alt="Conan"></li>
+    <li>Love playing Minecraft and exploring creative games <img src="https://cdn3.emoji.gg/emojis/4874_CreeperAwwMan.png" width="30"  alt="creeper"></li>
+  </ul>
+</p>
 </div>
 
 <!--
