@@ -6,7 +6,7 @@
 </p>
 <p>I'm an indie app developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
 
-<!--------- Tech Stack ---------->
+<!--------- Currently exploring ---------->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="24"/> What I’ve Used</h2>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -33,22 +33,8 @@
     <a href="https://x.com/signothecat" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
-<!--------- GitHub Activity ---------->
+<!--------- GitHub activity ---------->
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514046/47/mario.gif?1643514046" width="24"/> GitHub Activity</h2>
-
-<p>
-<picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=15&theme=onedark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=15&theme=flat"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=signothecat&margin-w=10&theme=flat" alt="Trophy">
-</picture>
-</p>
 
 <table>
   <tr>
@@ -85,7 +71,7 @@
   </tr>
 </table>
 
-<!--------- My downtime ---------->
+<!--------- In my downtime ---------->
 <h2><img src="https://cdn3.emoji.gg/emojis/96890-cateat.gif" width="24"/> What I enjoy in my downtime</h2>
 <div>
   <p style="margin: 0;">
