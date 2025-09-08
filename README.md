@@ -73,16 +73,6 @@
   </tr>
 </table>
 
-<!--------- In my downtime ---------->
-<h2><img src="https://cdn3.emoji.gg/emojis/96890-cateat.gif" width="24"/> In my downtime</h2>
-<div>
-  <ul>
-    <li>Enjoy watching anime (Detective Conan, Dragon Ball, etc.) <img src="https://cdn3.emoji.gg/emojis/94083-conan-blush.png" width="26" alt="Conan"></li>
-    <li>Love playing Minecraft and exploring creative games <img src="https://cdn3.emoji.gg/emojis/4874_CreeperAwwMan.png" width="30"  alt="creeper"></li>
-  </ul>
-</p>
-</div>
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
