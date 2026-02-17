@@ -4,8 +4,6 @@
     <a href="https://qiita.com/signo" target="_blank"><img height="20" src="https://qiita-badge.apiapi.app/s/signo/contributions.svg" /></a>
 </p>
 
-<h1>Hello! Nice to meet you. </h1>
-
 <p>I'm an application engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
 
 <!--------- Currently exploring ---------->
@@ -50,53 +48,6 @@
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white" alt="WordPress">
 </p>
-
-<!--------- Where to find me ---------->
-<h2>Where to find me</h2>
-
-<p>
-    <a href="https://github.com/signothecat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
-    <a href="https://qiita.com/signo"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white"></a>
-    <a href="https://x.com/signothecat" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" /></a>
-</p>
-
-<!--------- GitHub activity ---------->
-<h2>GitHub activity</h2>
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=one_dark_pro"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=buefy"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img
-          src="https://github-readme-stats-nine-alpha.vercel.app/api?username=signothecat&show_icons=true&count_private=true&theme=buefy"
-        />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&hide=css&theme=one_dark_pro"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css&langs_count=8&theme=buefy"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img
-          src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css&langs_count=8&theme=buefy"
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
 
 <!--
 - 🔭 I’m currently working on ...
