@@ -7,7 +7,7 @@
 <p>I'm an application engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
 
 <!--------- Currently exploring ---------->
-<h2>Currently exploring</h2>
+<p>Currently exploring:</p>
 
 <h4>Web / Mobile Frontend</h4>
 <p>
