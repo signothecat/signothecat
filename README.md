@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Kysely-black" alt="Kysely">
 <img src="https://img.shields.io/badge/Prisma-%23243f53?logo=Prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/tRPC-%23558EC8?logo=trpc&logoColor=white" alt="tRPC">
 <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" alt="Bun">
 <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel">
