@@ -53,15 +53,15 @@
 <h4>GitHub Stats</h4>
 <picture>
 <source
-  srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&hide=css,meta,wolfram,wolfram%20language&theme=one_dark_pro&v=2"
+  srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=5&hide=css,meta,wolfram,wolfram%20language&theme=one_dark_pro&v=2"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css,meta,wolfram,wolfram%20language&langs_count=8&theme=buefy&v=2"
+  srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css,meta,wolfram,wolfram%20language&langs_count=5&theme=buefy&v=2"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img
-  src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css,meta,wolfram,wolfram%20language&langs_count=8&theme=buefy&v=2"
+  src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css,meta,wolfram,wolfram%20language&langs_count=5&theme=buefy&v=2"
 />
 </picture>
 
