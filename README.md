@@ -4,7 +4,7 @@
     <a href="https://qiita.com/signo" target="_blank"><img height="20" src="https://qiita-badge.apiapi.app/s/signo/contributions.svg" /></a>
 </p>
 
-<p>I'm an application engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
+<p>I'm an application engineer based in <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
 
 <!--------- Currently exploring ---------->
 <p>Currently exploring:</p>
@@ -34,7 +34,6 @@
 
 <h4>Other Languages</h4>
 <p>
-<img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift">
@@ -44,11 +43,27 @@
 
 <h4>Other Tools</h4>
 <p>
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity">
 <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender">
 <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?logo=ClipStudioPaint&logoColor=white" alt="Clip Studio Paint">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white" alt="WordPress">
 </p>
+
+<h4>GitHub Stats</h4>
+<picture>
+<source
+  srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&langs_count=8&hide=css&theme=one_dark_pro"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css&langs_count=8&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img
+  src="https://github-readme-stats-nine-alpha.vercel.app/api/top-langs?username=signothecat&layout=compact&hide=css&langs_count=8&theme=buefy"
+/>
+</picture>
 
 <!--
 - 🔭 I’m currently working on ...
