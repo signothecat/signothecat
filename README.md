@@ -4,8 +4,6 @@
     <a href="https://qiita.com/signo" target="_blank"><img height="20" src="https://qiita-badge.apiapi.app/s/signo/contributions.svg" /></a>
 </p>
 
-<p>I'm an application engineer based in <img src="https://cdn-icons-png.flaticon.com/128/197/197604.png" width="13"/> <b>Tokyo, Japan</b>.</p>
-
 <!--------- Currently exploring ---------->
 <p>Currently exploring:</p>
 
