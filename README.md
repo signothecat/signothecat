@@ -21,24 +21,17 @@
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-<p>Other Languages:</p>
+<p>Other Languages & Tools:</p>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Shell_Script-84bf5f?logo=gnubash&logoColor=white" alt="Shell Script">
   <img src="https://img.shields.io/badge/Zsh-000000?logo=zsh&logoColor=white" alt="Zsh">
-</p>
-
-<p>Other Tools:</p>
-<p>
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender">
-  <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?logo=ClipStudioPaint&logoColor=white" alt="Clip Studio Paint">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white" alt="WordPress">
 </p>
 
 <!--
