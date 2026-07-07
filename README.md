@@ -7,18 +7,12 @@
 <!--------- Currently exploring ---------->
 <p>Currently exploring:</p>
 
-<h4>Web / Mobile Frontend</h4>
+<h4>Web / Mobile</h4>
 <p>
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native">
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-<h4>Web Backend & Infra</h4>
-<p>
 <img src="https://img.shields.io/badge/PostgreSQL-%23436592.svg?logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Kysely-black" alt="Kysely">
