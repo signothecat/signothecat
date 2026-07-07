@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native">
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3">
 </p>
@@ -32,9 +31,11 @@
 
 <h4>Other Languages</h4>
 <p>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua">
 <img src="https://img.shields.io/badge/Shell_Script-84bf5f?logo=gnubash&logoColor=white" alt="Shell Script">
 <img src="https://img.shields.io/badge/Zsh-000000?logo=zsh&logoColor=white" alt="Zsh">
 </p>
